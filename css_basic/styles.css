@@ -18,3 +18,13 @@ aside {
 	flex: 1;
 	overflow-y: auto;
 }
+
+:root {
+       	--blue: #00a1de;
+	--yellow: #fad201;
+	--green: #20603d;
+	--ink: #1c1c1c;
+	--muted: #6b6b6b;
+	--paper: #fdfdfb;
+	--rule: #e6e6e6
+}
