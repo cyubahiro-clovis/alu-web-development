@@ -1,15 +1,14 @@
 body {
 	display: flex;
-	flex-direction: row;
-	flex: auto;
+	flex-direction: column;
 }
 
 main {
 	display: flex;
 	flex-direction: row;
-
 	flex: auto;
 }
+
 article {
 	flex: 2;
 	overflow-y: auto;
